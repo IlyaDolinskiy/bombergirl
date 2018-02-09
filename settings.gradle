@@ -1,0 +1,3 @@
+rootProject.name = 'bombergirl'
+include 'matchmaker'
+include 'frontend'
